@@ -5,27 +5,22 @@
 <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="370" alt="coding" align="right">
 
 
-- 🔭 I’m currently working on **Graphics Designing, UI/UX Design and Full Stack Web Development**
+- 🔭 I’m currently working on **Angular Web Development**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MEAN Stack**
 
-- 👨‍💻 All of my projects are available at [https://sudo-satvik.github.io/Satvik-Sharma/](https://sudo-satvik.github.io/Satvik-Sharma/)
+- 👨‍💻 All of my projects are available at [https://github.com/patilharshal2020](https://github.com/patilharshal2020)
 
-- 📝 I regularly write articles on [sharmasatvik.blogspot.com](sharmasatvik.blogspot.com)
+- 💬 Ask me about **UI/UX Ideas, Angular and TypeScript Problems**
 
-- 💬 Ask me about **UI/UX Ideas, Java and JavaScript Problems**
-
-- 📫 How to reach me **sharmasatvik43@gmail.com**
+- 📫 How to reach me **patilharshal675@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sudo-satvik-sharma/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/584/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="satvik-sharma" height="50" width="50" /></a>
-<a href="https://instagram.com/fl.o_satvik" target="blank"><img align="center" src="https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584853.png" alt="fl.o_satvik" height="60" width="60" /></a>
-<a href="https://twitter.com/tw_satan_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" alt="tw_satan_" height="30" width="40" /></a>
-<a href="https://codepen.io/satvik-sharma" target="blank"><img align="center" src="https://icon-library.com/images/codepen-icon/codepen-icon-26.jpg" alt="satvik-sharma" height="40" width="40" /></a>
-<a href="https://dribbble.com/satviksharma" target="blank"><img align="center" src="https://brandslogos.com/wp-content/uploads/images/dribbble-icon-logo-vector.svg" alt="satviksharma" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/sharmasatvik" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="sharmasatvik" height="50" width="50" /></a>
-<a href="https://www.leetcode.com/sudo-satvik" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="sudo-satvik" height="40" width="40" /></a>
+<a href="www.linkedin.com/in/patilharshal675" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/584/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="satvik-sharma" height="50" width="50" /></a>
+<a href="https://instagram.com/harry_675" target="blank"><img align="center" src="https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584853.png" alt="fl.o_satvik" height="60" width="60" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" alt="tw_satan_" height="30" width="40" /></a>
+<a href="https://codepen.io/harry_675" target="blank"><img align="center" src="https://icon-library.com/images/codepen-icon/codepen-icon-26.jpg" alt="satvik-sharma" height="40" width="40" /></a>
 </p>
 
 
